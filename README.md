@@ -1,11 +1,9 @@
 <h1 align="center">Codelândia | Desafio 01</h1>
 <br>
 <br>
-![image](src/img/preview.png)
+![image](/src/img/preview.png)
 
 ## 📃 Sobre
-<br>
-<br>
 **Blog - Codelândia | Desafio 1** 
 Este é o meu primeiro de uma série de desafios propostos na Comunidade Codelândia e seguindo as especificações da seguinte UI. 
 com apenas uma alteração na cor dos icones para amarelo<br>
