@@ -1,6 +1,6 @@
 <h1 align="center">Codelândia | Desafio 01</h1>
 
-![image](../src/img/preview.png)
+![image](/preview/preview.png)
 
 ## 📃 Sobre
 **Blog - Codelândia | Desafio 1** 
