@@ -14,16 +14,19 @@ Para ver os demais desafios, clique no link a seguir: <br>
 
 ---------------------------------------------------------------------------------------------------
 
-## 💻 Tecnologias utilizadas
+## 💻 Tecnologias utilizadas no desafio
 O projeto foi desenvolvido com as tecnologias abaixo: <br>
 
 * HTML
 * CSS
 * Javascript
+**Autor: [Alex Gois](https://www.alexgois.com.br/)**
+
+
 
 ----------------------------------------------------------------------------------------------------
 
-## 🎬 Interface
-![Home]( )
+## 🎬 Live site
+**🔗️ https://www.alexgois.com.br/codelandia_desafio1**
 
 
