@@ -1,4 +1,4 @@
-<h1 align="center">Codelândia | Desafio 01</h1>
+<h1 align="center">Blog - Codelândia | Desafio 01</h1>
 
 ![image](/preview/preview.png)
 
