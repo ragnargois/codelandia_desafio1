@@ -9,7 +9,7 @@ com apenas uma alteração na cor dos icones para amarelo<br>
 [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1)
 
 Para ver os demais desafios, clique no link a seguir: <br>
-[Desafios](https:// /)
+[Desafios](https://alexgois.com.br/atividades)
 
 ---------------------------------------------------------------------------------------------------
 
